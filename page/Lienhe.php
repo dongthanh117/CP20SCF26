@@ -7,18 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-<?php
-echo '<h1>Xin chào !! </h1>';
-$hoten ='Thanh'
-$password = '12345'
 
-echo '<h1>style="color:blue;"'
-
-?>
-    <a href="page/Gioithieu.php">Giới thiệu </a><br/>
-    <a href="page/Lienhe.php">Liên hệ </a>
-    
-
-   
+    <h1> Liên hệ </h1>
+    <a href="../index.php">Quay về trang chủ </a>
 </body>
 </html>
